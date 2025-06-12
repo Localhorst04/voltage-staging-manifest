@@ -38,6 +38,7 @@
   <project path="external/ant-wireless/ant_native" name="external_ant-wireless_ant_native" remote="st" revision="16" />
   <project path="external/ant-wireless/ant_service" name="external_ant-wireless_ant_service" remote="st" revision="16" />
   <project path="external/ant-wireless/hidl" name="external_ant-wireless_hidl" remote="st" revision="16" />
+  <project path="external/bouncycastle" name="external_bouncycastle" remote="st" revision="16" />
   <project path="external/dtc" name="external_dtc" remote="st" revision="16" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="st" revision="16" />
   <project path="external/GmsCompatConfig" name="external_GmsCompatConfig" remote="st" revision="16" />
@@ -115,7 +116,9 @@
   <project path="packages/apps/LogViewer" name="packages_apps_LogViewer" remote="st" revision="16" />
   <project path="packages/apps/NetworkLocation" name="packages_apps_NetworkLocation" remote="st" revision="16" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="st" revision="16" />
+  <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="st" revision="16" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="st" revision="16" />
+  <project path="packages/apps/Powerhub" name="packages_apps_Powerhub" remote="st" revision="16" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="st" revision="16" />
   <project path="packages/modules/AppSearch" name="packages_modules_AppSearch" remote="st" revision="16" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="st" revision="16" />
@@ -163,6 +166,7 @@
 
   <!-- Vendor -->
   <project path="vendor/voltage" name="vendor_voltage" remote="st" revision="16" />
+  <project path="vendor/voltage-priv/keys" name="vendor_voltage-priv_keys" remote="st" revision="16" />
   <project path="vendor/support" name="vendor_support" remote="st" revision="16" />
   <project path="vendor/SystemUIClocks" name="vendor_SystemUIClocks" remote="st" revision="16" />
   <project path="vendor/lineage_compat" name="vendor_lineage_compat" remote="st" revision="16" />
