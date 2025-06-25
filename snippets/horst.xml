@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Kernel -->
-    <project name="re-noroi/kernel_sm8250" path="re-noroi/kernel/sm8250" remote="github" revision="bpf" />
+    <project name="re-noroi/kernel_sm8250" path="kernel/xiaomi/sm8250" remote="github" revision="bpf" />
     <!-- Device Trees -->
     <project name="device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" remote="sanji" revision="15" />
     <project name="device_xiaomi_alioth" path="device/xiaomi/alioth" remote="sanji" revision="15" />
