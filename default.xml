@@ -26,6 +26,16 @@
            remote="aosp"
            sync-j="4" />
 
+  <remote name="github"
+          fetch="https://github.com"
+          sync-c="true"
+          sync-j="4" />
+
+  <remote name="sanji"
+          fetch="https://github.com/Sanjivns"
+          sync-c="true"
+          sync-j="4" />
+
   <superproject name="platform/superproject" remote="aosp" revision="android-16.0.0_r1"/>
   <contactinfo bugurl="go/repo-bug" />
 
@@ -1042,6 +1052,9 @@
   <include name="snippets/external.xml" />
   <include name="snippets/remove.xml" />
   <include name="snippets/voltage.xml" />
+
+  <!-- Alioth -->
+  <include name="snippets/horst.xml" />
 
   <!-- END open-source projects -->
 
