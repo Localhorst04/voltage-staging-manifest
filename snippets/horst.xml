@@ -3,9 +3,9 @@
     <!-- Kernel -->
     <project name="re-noroi/kernel_sm8250" path="kernel/xiaomi/sm8250" remote="github" revision="bpf" />
     <!-- Device Trees -->
-    <project name="device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" remote="sanji" revision="15" />
-    <project name="device_xiaomi_alioth" path="device/xiaomi/alioth" remote="sanji" revision="15" />
+    <project name="device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" remote="horst" revision="voltage-16" />
+    <project name="device_xiaomi_alioth" path="device/xiaomi/alioth" remote="horst" revision="voltage-16" />
     <!-- Vendor Trees -->
-    <project name="vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" remote="sanji" revision="15" />
-    <project name="vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" remote="sanji" revision="15.0" />
+    <project name="vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" remote="horst" revision="voltage-16" />
+    <project name="vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" remote="horst" revision="voltage-16" />
 </manifest>
