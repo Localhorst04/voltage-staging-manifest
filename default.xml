@@ -30,9 +30,9 @@
           fetch="https://github.com"
           sync-c="true"
           sync-j="4" />
-
-  <remote name="sanji"
-          fetch="https://github.com/Sanjivns"
+   
+  <remote name="horst"
+          fetch="https://github.com/Localhorst04"
           sync-c="true"
           sync-j="4" />
 
