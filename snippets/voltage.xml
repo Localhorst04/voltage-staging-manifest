@@ -121,6 +121,7 @@
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="st" revision="16" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="st" revision="16" />
   <project path="packages/apps/Powerhub" name="packages_apps_Powerhub" remote="st" revision="16" />
+  <project path="packages/apps/ParanoidSense" name="packages_apps_ParanoidSense" remote="gitlab" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="st" revision="16" />
   <project path="packages/modules/AppSearch" name="packages_modules_AppSearch" remote="st" revision="16" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="st" revision="16" />
