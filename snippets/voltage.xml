@@ -121,6 +121,7 @@
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="st" revision="16" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="st" revision="16" />
   <project path="packages/apps/LogViewer" name="packages_apps_LogViewer" remote="st" revision="16" />
+  <project path="packages/apps/LMOFreeform" name="packages_apps_LMOFreeform" remote="st" revision="16" />
   <project path="packages/apps/NetworkLocation" name="packages_apps_NetworkLocation" remote="st" revision="16" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="st" revision="16" />
   <project path="packages/apps/Seedvault" name="packages_apps_Seedvault" remote="st" revision="16" /> 
