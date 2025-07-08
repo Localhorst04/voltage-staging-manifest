@@ -2,7 +2,7 @@
 <manifest>
     <!-- Kernel -->
     <project name="EmanuelCN/kernel_xiaomi_sm8250" path="kernel/xiaomi/sm8250" remote="github" revision="staging" />
-    <project name="EmanuelCN/KernelSU" path="kernel/xiaomi/sm8250/KernelSU" remote="github" revision="b766b98" />
+    <project name="EmanuelCN/KernelSU" path="kernel/xiaomi/sm8250/KernelSU" remote="github" />
 
     <!-- Device Trees -->
     <project name="device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" remote="horst" revision="voltage-16" />
