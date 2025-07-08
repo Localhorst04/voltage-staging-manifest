@@ -10,5 +10,5 @@
     <project name="vendor_xiaomi_alioth" path="vendor/xiaomi/alioth" remote="horst" revision="voltage-16" />
 
     <remove-project name="packages_resources_devicesettings" />
-    <project path="packages/resources/devicesettings" name="PocoF3Releases/packages_resources_devicesettings" remote="github" revision="16" />
+    <project path="packages/resources/devicesettings" name="PocoF3Releases/packages_resources_devicesettings" remote="github" revision="aosp-16" />
 </manifest>
